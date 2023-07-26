@@ -11,6 +11,10 @@ public class Person {
 //  @Autowired
   private Vehicle vehicle;
 
+  public Person(Vehicle vehicle) {
+    System.out.println("Person bean created by Spring");
+    this.vehicle = vehicle;
+  }
   public String getName() {
     return name;
   }
@@ -23,7 +27,7 @@ public class Person {
     return vehicle;
   }
 
-  @Autowired
+//  @Autowired
   public void setVehicle(Vehicle vehicle) {
     this.vehicle = vehicle;
   }
