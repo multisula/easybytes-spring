@@ -4,11 +4,8 @@ import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class Vehicle {
-  public Vehicle() {
-    System.out.println("Vehicle bean created by Spring");
-  }
 
   private String name = "Toyota";
 
