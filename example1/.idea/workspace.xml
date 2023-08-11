@@ -5,165 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59cbef07-60db-464d-b8d5-341ea1582f74" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.attach_pid5228" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/main/Example1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/src/main/java/com/example/beans/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example10/src/main/java/com/example/main/Example10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/src/main/java/com/example/beans/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/src/main/java/com/example/main/Example11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/target/classes/com/example/beans/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/target/classes/com/example/beans/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/target/classes/com/example/config/ProjectConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example11/target/classes/com/example/main/Example11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/src/main/java/com/example/beans/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example12/src/main/java/com/example/main/Example12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/beans/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/implementation/BoseSpeakers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/implementation/BridgeStoneTyres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/implementation/MichelinTyres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/implementation/SonySpeakers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/interfaces/Speakers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/interfaces/Tyres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/main/Example13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example13/src/main/java/com/example/services/VehicleServices.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/aspects/LoggerAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/aspects/VehicleStartCheckAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/implementation/BoseSpeakers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/implementation/BridgeStoneTyres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/implementation/MichelinTyres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/implementation/SonySpeakers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/interfaces/LogAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/interfaces/Speakers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/interfaces/Tyres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/main/Example17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/model/Song.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example17/src/main/java/com/example/services/VehicleServices.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example2/src/main/java/com/example/main/Example2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/src/main/java/com/example/main/Example3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example4/src/main/java/com/example/main/Example4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example5/src/main/java/com/example/main/Example5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example6/src/main/java/com/example/main/Example6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example7/src/main/java/com/example/main/Example7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/src/main/java/com/example/beans/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/src/main/java/com/example/beans/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/src/main/java/com/example/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example9/src/main/java/com/example/main/Example9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +72,7 @@
       <recent name="$PROJECT_DIR$/../example_19/src/main/resources/templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.EazyschoolApplication (3)">
+  <component name="RunManager" selected="Spring Boot.EazyschoolApplication (5)">
     <configuration name="Example17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.main.Example17" />
       <module name="example17" />
@@ -295,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EazyschoolApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="example_23" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.eazyschool.EazyschoolApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.eazyschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EazyschoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="example_18" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.eazyschool.EazyschoolApplication" />
@@ -304,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EazyschoolApplication (5)" />
         <item itemvalue="Application.Example17" />
       </list>
     </recent_temporary>
